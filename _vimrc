@@ -10,5 +10,12 @@ set showcmd
 " Because autoindent
 set autoindent
 
+
+set visualbell
+set ruler
+
+" Fordi det er finere farger og lettere aa lese
+colorscheme elflord
+
 "Line vumbers <3
 set number
