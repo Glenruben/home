@@ -15,7 +15,7 @@ set visualbell
 set ruler
 
 " Fordi det er finere farger og lettere aa lese
-colorscheme elflord
+" colorscheme elflord
 
 "Line vumbers <3
 set number
