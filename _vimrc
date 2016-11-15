@@ -19,3 +19,8 @@ set ruler
 
 "Line vumbers <3
 set number
+
+" Fordi jeg liker ikke tilde-filer og det gjør ikke Git heller
+set nobackup
+set nowritebackup
+set noswapfile
